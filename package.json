@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "start": "node server/index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.2",
+    "request": "^2.88.2"
+  }
+}
