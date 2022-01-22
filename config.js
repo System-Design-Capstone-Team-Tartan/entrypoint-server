@@ -1,10 +1,10 @@
 module.exports = {
   host: 'localhost',
-  port: 3070,
+  port: 1337,
   serviceIPs: {
     products: '',
     reviews: '',
-    questions1: '3.88.248.49',
+    questions1: 'http://localhost:3070',
     questions2: ''
   }
 };
